@@ -1,4 +1,4 @@
-module github.com/pion/turn/v4
+module github.com/ispysoftware/turn/v4
 
 go 1.20
 
